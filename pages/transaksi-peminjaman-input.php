@@ -32,7 +32,7 @@
 							ORDER BY idcustomer"
 						);
 						while($r_tampil_customer=mysqli_fetch_array($q_tampil_customer)){
-							echo"<option value=$r_tampil_customer[idcutomer]>$r_tampil_customer[idcustomer] | $r_tampil_customer[nama]</option>";
+							echo"<option value=$r_tampil_customer[idcustomer]>$r_tampil_customer[idcustomer] | $r_tampil_customer[nama]</option>";
 						}
 					?>
 				</select>
