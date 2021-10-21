@@ -8,7 +8,6 @@
 			<th>Jenis Komputer</th>
 			<th>Kategori</th>
 			<th>Pemilik</th>
-			<th>status</th>
 			<th id="label-opsi2">Opsi</th>
 		</tr>
 		<?php

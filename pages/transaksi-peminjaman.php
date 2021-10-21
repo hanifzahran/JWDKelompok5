@@ -16,7 +16,7 @@
 
 		$sql="SELECT tbtransaksi.*,tbcustomer.*,tbcomputer.*
 		FROM tbtransaksi,tbcustomer,tbcomputer
-		WHERE tbtransaksi.idcustomer=tcustomer.idcustomer
+		WHERE tbtransaksi.idcustomer=tbcustomer.idcustomer
 		AND tbtransaksi.idcomputer=tbcomputer.idcomputer
 		AND tbtransaksi.tglkembali='0000-00-00'
 		ORDER BY tbtransaksi.idtransaksi DESC";
