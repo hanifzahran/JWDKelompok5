@@ -45,9 +45,9 @@ $tgl = date('Y-m-d');
 							</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="index.php?p=buku">
+							<a class="nav-link" href="index.php?p=computer">
 								<span data-feather="shopping-cart"></span>
-								Data Buku
+								Data Komputer
 							</a>
 						</li>
 						<li class="nav-item">

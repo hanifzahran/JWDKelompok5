@@ -13,7 +13,7 @@
 		</tr>
 		<?php
 
-		$sql="SELECT * FROM tbcomputer ORDER BY tbcomputer DESC";
+		$sql="SELECT * FROM tbcomputer ORDER BY idcomputer DESC";
 		$q_tampil_computer = mysqli_query($db, $sql);
 
 		$nomor=1;

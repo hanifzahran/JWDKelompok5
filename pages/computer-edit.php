@@ -14,7 +14,7 @@
 		</tr>
 		<tr>
 			<td class="label-formulir">Jenis Komputer</td>
-			<td class="isian-formulir"><input type="text" name="jenis_computer" value="<?php echo $r_tampil_computer['judulcomputer']; ?>" class="isian-formulir isian-formulir-border" required></td>
+			<td class="isian-formulir"><input type="text" name="jenis_computer" value="<?php echo $r_tampil_computer['jeniscomputer']; ?>" class="isian-formulir isian-formulir-border" required></td>
 		</tr>
 		<tr>
 			<td class="label-formulir">Kategori</td>
