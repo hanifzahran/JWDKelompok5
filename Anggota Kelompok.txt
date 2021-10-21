@@ -1,0 +1,6 @@
+Nama Anggota
+
+Muhammad Hanif Zahran	(Semua proses dan pages costumer)
+Muhammad Afif Rizqi	(Semua proses dan pages komputer)
+Nur Intan Sari		(Semua proses dan pages transaksi)
+Muhammad Irfan Azman	(index.php)
